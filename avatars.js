@@ -1,27 +1,27 @@
 window.XZ_IMAGES = {
   // 一、境界星轨底图（12张）
   realmBg: {
-    "练气期": "",
-    "筑基期": "",
-    "金丹期": "",
-    "元婴期": "",
-    "化神期": "",
-    "炼虚期": "",
-    "合体期": "",
-    "大乘期": "",
-    "真仙境": "",
-    "金仙境": "",
-    "天仙境": "",
-    "仙帝境": ""
+    "练气期": "https://i.postimg.cc/XYwxjpjL/lian-qi-qi.jpg",
+    "筑基期": "https://i.postimg.cc/9QG1mrmp/zhu-ji-qi.jpg",
+    "金丹期": "https://i.postimg.cc/VkyDPj8T/jin-dan-qi.jpg",
+    "元婴期": "https://i.postimg.cc/JzwPCbLY/yuan-ying-qi.jpg",
+    "化神期": "https://i.postimg.cc/Njhpv1cd/hua-shen-qi.jpg",
+    "炼虚期": "https://i.postimg.cc/XYwxjpjL/lian-qi-qi.jpg",
+    "合体期": "https://i.postimg.cc/Cxympjgs/he-ti-qi.jpg",
+    "大乘期": "https://i.postimg.cc/XYMQ6wbx/da-cheng-qi.jpg",
+    "真仙境": "https://i.postimg.cc/htFpR9BV/zhen-xian-jing.jpg",
+    "金仙境": "https://i.postimg.cc/dVM4c8Yd/jin-xian-jing.jpg",
+    "天仙境": "https://i.postimg.cc/13xJ1pQF/tian-xian-jing.jpg",
+    "仙帝境": "https://i.postimg.cc/W1RXcMvM/xian-di-jing.jpg"
   },
 
   // 二、五门主菜单底图（5张）
   portalBg: {
-    "chars": "",    // 仙缘
-    "achieve": "",  // 因果
-    "bag": "",      // 须弥
-    "gongfa": "",   // 术法
-    "pets": ""      // 灵宠
+    "chars": "https://i.postimg.cc/xTgTWPMD/xian-yuan.jpg",    // 仙缘
+    "achieve": "https://i.postimg.cc/PJ9KxDvc/yin-guo.jpg",  // 因果
+    "bag": "https://i.postimg.cc/hGtdfX4X/xu-mi.jpg",      // 须弥
+    "gongfa": "https://i.postimg.cc/3J9rWnk4/shu-fa.jpg",   // 术法
+    "pets": "https://i.postimg.cc/P5870qny/ling-chong.jpg"      // 灵宠
   },
 
   // 三、85位在册人物立绘（按分区排列，直接填入 Postimages 的 .jpg/.png/.webp 直链即可）
