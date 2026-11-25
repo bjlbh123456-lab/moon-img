@@ -19,8 +19,8 @@ window.XZ_IMAGES = {
   portalBg: {
     "chars": "https://i.postimg.cc/xTgTWPMD/xian-yuan.jpg",    // 仙缘
     "achieve": "https://i.postimg.cc/PJ9KxDvc/yin-guo.jpg",  // 因果
-    "bag": "https://i.postimg.cc/hGtdfX4X/xu-mi.jpg",      // 须弥
-    "gongfa": "https://i.postimg.cc/3J9rWnk4/shu-fa.jpg",   // 术法
+    "bag": "https://i.postimg.cc/CxRQHF4x/xu-mi.jpg",      // 须弥
+    "gongfa": "https://i.postimg.cc/0223jGMB/shu-fa.jpg",   // 术法
     "pets": "https://i.postimg.cc/P5870qny/ling-chong.jpg"      // 灵宠
   },
 
