@@ -48,7 +48,7 @@ window.XZ_IMAGES = {
     "卢平平": "",
     "杨彰": "",
     "萧玥澄": "https://i.postimg.cc/vB8Kjpz7/xiao-yue-cheng.jpg",
-    "萧颖熙": "https://i.postimg.cc/63SDvMrG/xiao-ying-xi.jpg",
+    "萧颖熙": "https://i.postimg.cc/gJfTJnpZ/xiao-ying-xi.jpg",
     "萧佳宜": "https://i.postimg.cc/NMNnwpJK/xiao-jia-yi.jpg",
     "温绮": "https://i.postimg.cc/B6ydKmTL/wen-qi.jpg",
     "白璎珞": "https://i.postimg.cc/YSYgHZhV/bai-ying-luo.jpg",
