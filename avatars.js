@@ -104,8 +104,8 @@ window.XZ_IMAGES = {
     "司马锋": "",
     "辛辩": "",
     "孔颐": "https://i.postimg.cc/KvcHYSSB/kong-yi.jpg",
-    "谢卓颜": "",
-    "梁琉鸢": "",
+    "谢卓颜": "https://i.postimg.cc/qv1hdKcy/xie-zhuo-yan.jpg",
+    "梁琉鸢": "https://i.postimg.cc/N0rgP2dQ/liang-liu-yuan.jpg",
     "薛嘉禾": "https://i.postimg.cc/9FXnf55T/xue-jia-he.jpg",
     "司红豆": "https://i.postimg.cc/DyfMzkkG/si-hong-dou.jpg",
 
@@ -115,11 +115,11 @@ window.XZ_IMAGES = {
     "巫偌": "",
     "张问": "",
     "常辰": "",
-    "蓝雅心": "",
+    "蓝雅心": "https://i.postimg.cc/zvq8Bt88/lan-ya-xin.jpg",
     "尹曼姝": "",
     "仇无恩": "",
-    "何善瑶": "",
-    "鱼画彤": "",
+    "何善瑶": "https://i.postimg.cc/BZNGpCJC/he-shan-yao.jpg",
+    "鱼画彤": "https://i.postimg.cc/763qq88C/yu-hua-tong.jpg",
 
     // 8. 仙界 · 太清阳极（2人）
     "帝玄": "",
