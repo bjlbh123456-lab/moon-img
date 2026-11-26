@@ -51,10 +51,10 @@ window.XZ_IMAGES = {
     "萧颖熙": "",
     "萧佳宜": "",
     "温绮": "",
-    "白璎珞": "",
-    "康筱果": "",
-    "杨筱蝶": "",
-    "晏娉": "",
+    "白璎珞": "https://i.postimg.cc/YSYgHZhV/bai-ying-luo.jpg",
+    "康筱果": "https://i.postimg.cc/P5G5jxZ3/kang-xiao-guo.jpg",
+    "杨筱蝶": "https://i.postimg.cc/nh8hJz7S/yang-xiao-die.jpg",
+    "晏娉": "https://i.postimg.cc/13x3Qt6Y/yan-ping.jpg",
 
     // 3. 凡俗界 · 麟洲（14人）
     "林诏唯": "",
@@ -65,11 +65,11 @@ window.XZ_IMAGES = {
     "顾俊扬": "",
     "詹科甫": "",
     "古骞": "",
-    "柳颐": "",
-    "柳妮": "",
-    "叶轻罗": "",
-    "宋冬菱": "",
-    "顾梦嫣": "",
+    "柳颐": "https://i.postimg.cc/hGtjCYVc/liu-yi.jpg",
+    "柳妮": "https://i.postimg.cc/yN8dfG07/liu-ni.jpg",
+    "叶轻罗": "https://i.postimg.cc/xdXQNVKx/ye-qing-luo.jpg",
+    "宋冬菱": "https://i.postimg.cc/T1JvvdXZ/song-dong-ling.jpg",
+    "顾梦嫣": "https://i.postimg.cc/bvZPSfQ6/gu-meng-yan.jpg",
     "容思": "",
 
     // 4. 修真界 · 东岱域（11人）
