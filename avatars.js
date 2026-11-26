@@ -70,7 +70,7 @@ window.XZ_IMAGES = {
     "叶轻罗": "https://i.postimg.cc/xdXQNVKx/ye-qing-luo.jpg",
     "宋冬菱": "https://i.postimg.cc/T1JvvdXZ/song-dong-ling.jpg",
     "顾梦嫣": "https://i.postimg.cc/bvZPSfQ6/gu-meng-yan.jpg",
-    "容思": "",
+    "容思": "https://i.postimg.cc/jdTMFVST/rong-si.jpg",
 
     // 4. 修真界 · 东岱域（11人）
     "李顺章": "",
@@ -78,10 +78,10 @@ window.XZ_IMAGES = {
     "张禄": "",
     "陆奕雄": "",
     "余泉": "",
-    "卓晨蕊": "",
+    "卓晨蕊": "https://i.postimg.cc/yYWDBxdj/zhuo-chen-rui.jpg",
     "陆绯": "https://i.postimg.cc/L6G3FzNw/lu-fei.jpg",
-    "余子衿": "",
-    "余子佩": "",
+    "余子衿": "https://i.postimg.cc/bvRy1frq/yu-zi-jin.jpg",
+    "余子佩": "https://i.postimg.cc/NfLKYFMx/yu-zi-pei.jpg",
     "鱼青涟": "https://i.postimg.cc/9FsYHGJs/yu-qing-lian.jpg",
     "罗夜玉": "https://i.postimg.cc/tC8NGh2f/luo-ye-yu.jpg",
 
@@ -91,11 +91,11 @@ window.XZ_IMAGES = {
     "黎景": "",
     "袁子鸿": "",
     "高弘光": "",
-    "凌霜": "",
-    "风铃儿": "",
-    "龙骊珠": "",
-    "凤栖梧": "",
-    "尹珂": "",
+    "凌霜": "https://i.postimg.cc/d3hJM7BQ/ling-shuang.jpg",
+    "风铃儿": "https://i.postimg.cc/5yXfcH3N/feng-ling-er.jpg",
+    "龙骊珠": "https://i.postimg.cc/ry4894Dc/long-li-zhu.jpg",
+    "凤栖梧": "https://i.postimg.cc/fWdwvdVD/feng-qi-wu.jpg",
+    "尹珂": "https://i.postimg.cc/VstYFtJz/yin-ke.jpg",
 
     // 6. 修真界 · 西华域（10人）
     "玄苦": "",
@@ -103,11 +103,11 @@ window.XZ_IMAGES = {
     "梁翎": "",
     "司马锋": "",
     "辛辩": "",
-    "孔颐": "",
+    "孔颐": "https://i.postimg.cc/KvcHYSSB/kong-yi.jpg",
     "谢卓颜": "",
     "梁琉鸢": "",
-    "薛嘉禾": "",
-    "司红豆": "",
+    "薛嘉禾": "https://i.postimg.cc/9FXnf55T/xue-jia-he.jpg",
+    "司红豆": "https://i.postimg.cc/DyfMzkkG/si-hong-dou.jpg",
 
     // 7. 修真界 · 北恒域（10人）
     "何恶全": "",
