@@ -73,11 +73,11 @@ window.XZ_IMAGES = {
     "容思": "https://i.postimg.cc/05wHs6Zd/rong-si.jpg",
 
     // 4. 修真界 · 东岱域（11人）
-    "李顺章": "",
-    "李尧": "",
-    "张禄": "",
-    "陆奕雄": "",
-    "余泉": "",
+    "李顺章": "https://i.postimg.cc/zvW6B3rt/li-shun-zhang.jpg",
+    "李尧": "https://i.postimg.cc/hvx6jhBC/li-yao.jpg",
+    "张禄": "https://i.postimg.cc/1Xt13yt9/zhang-lu.jpg",
+    "陆奕雄": "https://i.postimg.cc/gJtB48zp/lu-yi-xiong.jpg",
+    "余泉": "https://i.postimg.cc/mkDWgTDT/yu-quan.jpg",
     "卓晨蕊": "https://i.postimg.cc/yYWDBxdj/zhuo-chen-rui.jpg",
     "陆绯": "https://i.postimg.cc/L6G3FzNw/lu-fei.jpg",
     "余子衿": "https://i.postimg.cc/bvRy1frq/yu-zi-jin.jpg",
@@ -86,11 +86,11 @@ window.XZ_IMAGES = {
     "罗夜玉": "https://i.postimg.cc/tC8NGh2f/luo-ye-yu.jpg",
 
     // 5. 修真界 · 南衡域（10人）
-    "沈缘": "",
-    "黎渊": "",
-    "黎景": "",
-    "袁子鸿": "",
-    "高弘光": "",
+    "沈缘": "https://i.postimg.cc/NfF2WTQ5/shen-yuan.jpg",
+    "黎渊": "https://i.postimg.cc/XvbJ7y6g/li-yuan.jpg",
+    "黎景": "https://i.postimg.cc/B6tGqqtJ/li-jing.jpg",
+    "袁子鸿": "https://i.postimg.cc/vBDdQQDM/yuan-zi-hong.jpg",
+    "高弘光": "https://i.postimg.cc/rmW2dfGf/gao-hong-guang.jpg",
     "凌霜": "https://i.postimg.cc/d3hJM7BQ/ling-shuang.jpg",
     "风铃儿": "https://i.postimg.cc/5yXfcH3N/feng-ling-er.jpg",
     "龙骊珠": "https://i.postimg.cc/ry4894Dc/long-li-zhu.jpg",
