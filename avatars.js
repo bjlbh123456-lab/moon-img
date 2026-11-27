@@ -27,12 +27,12 @@ window.XZ_IMAGES = {
   // 三、85位在册人物立绘（按分区排列，直接填入 Postimages 的 .jpg/.png/.webp 直链即可）
   avatars: {
     // 1. 凡俗界 · 龙洲（14人）
-    "云晏": "",
-    "康绍": "",
-    "文柏": "",
-    "袁邺": "",
-    "常佑仁": "",
-    "杜惟": "",
+    "云晏": "https://i.postimg.cc/T3kDS1X5/yun-yan.jpg",
+    "康绍": "https://i.postimg.cc/1RTYxRs7/kang-shao.jpg",
+    "文柏": "https://i.postimg.cc/fRYPf44p/wen-bai.jpg",
+    "袁邺": "https://i.postimg.cc/hPW6z46Z/yuan-ye.jpg",
+    "常佑仁": "https://i.postimg.cc/9f7y72vQ/chang-you-ren.jpg",
+    "杜惟": "https://i.postimg.cc/ZKt2BY27/du-wei.jpg",
     "欧阳萱": "https://i.postimg.cc/ncy6z93s/ou-yang-xuan.jpg",
     "唐伊晨": "https://i.postimg.cc/02TLQKVb/tang-yi-chen.jpg",
     "程朵儿": "https://i.postimg.cc/ncy6z93M/cheng-duo-er.jpg",
@@ -43,7 +43,7 @@ window.XZ_IMAGES = {
     "阮星眠": "https://i.postimg.cc/gkXCmHHh/ruan-xing-mian.jpg",
 
     // 2. 凡俗界 · 凤洲（12人）
-    "丘智辉": "",
+    "丘智辉": "https://i.postimg.cc/mrfyVh35/qiu-zhi-hui.jpg",
     "楚万山": "",
     "卢平平": "",
     "杨彰": "",
