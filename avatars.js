@@ -38,7 +38,7 @@ window.XZ_IMAGES = {
     "程朵儿": "https://i.postimg.cc/ncy6z93M/cheng-duo-er.jpg",
     "殷瑜": "https://i.postimg.cc/BQrd6Pmj/yin-yu.jpg",
     "殷诗雁": "https://i.postimg.cc/02MTP00J/yin-shi-yan.jpg",
-    "韩月璃": "https://i.postimg.cc/Hscqd99y/han-yue-li.jpg",
+    "韩月璃": "https://i.postimg.cc/Gp1B8DrM/han-yue-li.jpg",
     "莫清雯": "https://i.postimg.cc/YqG5Mzzg/mo-qing-wen.jpg",
     "阮星眠": "https://i.postimg.cc/gkXCmHHh/ruan-xing-mian.jpg",
 
@@ -116,14 +116,14 @@ window.XZ_IMAGES = {
     "张问": "",
     "常辰": "",
     "蓝雅心": "https://i.postimg.cc/zvq8Bt88/lan-ya-xin.jpg",
-    "尹曼姝": "",
-    "仇无恩": "",
+    "尹曼姝": "https://i.postimg.cc/kXcYhQYJ/yin-man-shu.jpg",
+    "仇无恩": "https://i.postimg.cc/jdX3kH3q/chou-wu-en.jpg",
     "何善瑶": "https://i.postimg.cc/BZNGpCJC/he-shan-yao.jpg",
     "鱼画彤": "https://i.postimg.cc/763qq88C/yu-hua-tong.jpg",
 
     // 8. 仙界 · 太清阳极（2人）
     "帝玄": "",
-    "楚望舒": "",
+    "楚望舒": "https://i.postimg.cc/5yjjdqqd/chu-wang-shu.jpg",
 
     // 9. 仙界 · 太虚阴极（2人）
     "颜舜": "",
