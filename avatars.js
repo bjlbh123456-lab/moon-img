@@ -44,9 +44,9 @@ window.XZ_IMAGES = {
 
     // 2. 凡俗界 · 凤洲（12人）
     "丘智辉": "https://i.postimg.cc/mrfyVh35/qiu-zhi-hui.jpg",
-    "楚万山": "",
-    "卢平平": "",
-    "杨彰": "",
+    "楚万山": "https://i.postimg.cc/tJqbLhPM/chu-wan-shan.jpg",
+    "卢平平": "https://i.postimg.cc/pLnwc04W/lu-ping-ping.jpg",
+    "杨彰": "https://i.postimg.cc/TYm8C7ZX/yang-zhang.jpg",
     "萧玥澄": "https://i.postimg.cc/vB8Kjpz7/xiao-yue-cheng.jpg",
     "萧颖熙": "https://i.postimg.cc/gJfTJnpZ/xiao-ying-xi.jpg",
     "萧佳宜": "https://i.postimg.cc/NMNnwpJK/xiao-jia-yi.jpg",
@@ -70,7 +70,7 @@ window.XZ_IMAGES = {
     "叶轻罗": "https://i.postimg.cc/xdXQNVKx/ye-qing-luo.jpg",
     "宋冬菱": "https://i.postimg.cc/T1JvvdXZ/song-dong-ling.jpg",
     "顾梦嫣": "https://i.postimg.cc/bvZPSfQ6/gu-meng-yan.jpg",
-    "容思": "https://i.postimg.cc/jdTMFVST/rong-si.jpg",
+    "容思": "https://i.postimg.cc/05wHs6Zd/rong-si.jpg",
 
     // 4. 修真界 · 东岱域（11人）
     "李顺章": "",
