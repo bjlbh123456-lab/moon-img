@@ -98,11 +98,11 @@ window.XZ_IMAGES = {
     "尹珂": "https://i.postimg.cc/VstYFtJz/yin-ke.jpg",
 
     // 6. 修真界 · 西华域（10人）
-    "玄苦": "",
-    "悟心": "https://i.postimg.cc/fyhrCRXf/wuxin.jpg",
-    "梁翎": "",
-    "司马锋": "",
-    "辛辩": "",
+    "玄苦": "https://i.postimg.cc/VNJwjqPP/xuan-ku.jpg",
+    "悟心": "https://i.postimg.cc/vTd0ZstJ/wu-xin.jpg",
+    "梁翎": "https://i.postimg.cc/zBM1tV5K/liang-ling.jpg",
+    "司马锋": "https://i.postimg.cc/3NHtxTZM/si-ma-feng.jpg",
+    "辛辩": "https://i.postimg.cc/gjPg2WHf/xin-bian.jpg",
     "孔颐": "https://i.postimg.cc/KvcHYSSB/kong-yi.jpg",
     "谢卓颜": "https://i.postimg.cc/qv1hdKcy/xie-zhuo-yan.jpg",
     "梁琉鸢": "https://i.postimg.cc/N0rgP2dQ/liang-liu-yuan.jpg",
