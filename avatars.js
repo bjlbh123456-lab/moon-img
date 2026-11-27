@@ -110,23 +110,23 @@ window.XZ_IMAGES = {
     "司红豆": "https://i.postimg.cc/DyfMzkkG/si-hong-dou.jpg",
 
     // 7. 修真界 · 北恒域（10人）
-    "何恶全": "",
-    "金不凡": "",
-    "巫偌": "",
-    "张问": "",
-    "常辰": "",
+    "何恶全": "https://i.postimg.cc/2SKF5ZdB/he-e-quan.jpg",
+    "金不凡": "https://i.postimg.cc/k4XnhBZN/jin-bu-fan.jpg",
+    "巫偌": "https://i.postimg.cc/Y9XP29Sv/wu-ruo.jpg",
+    "张问": "https://i.postimg.cc/dVxm0yRZ/zhang-wen.jpg",
+    "常辰": "https://i.postimg.cc/HxSNWxLV/chang-chen.jpg",
     "蓝雅心": "https://i.postimg.cc/zvq8Bt88/lan-ya-xin.jpg",
     "尹曼姝": "https://i.postimg.cc/kXcYhQYJ/yin-man-shu.jpg",
     "仇无恩": "https://i.postimg.cc/jdX3kH3q/chou-wu-en.jpg",
     "何善瑶": "https://i.postimg.cc/BZNGpCJC/he-shan-yao.jpg",
     "鱼画彤": "https://i.postimg.cc/763qq88C/yu-hua-tong.jpg",
 
-    // 8. 仙界 · 太清阳极（2人）
-    "帝玄": "",
+    // 8. 仙界 · 太清阳极（3人）
+    "帝玄": "https://i.postimg.cc/1RD8nqSF/di-xuan.jpg",
     "楚望舒": "https://i.postimg.cc/5yjjdqqd/chu-wang-shu.jpg",
-
+    "秦沧山": "https://i.postimg.cc/V6LKr8ST/qin-cang-shan.jpg",
     // 9. 仙界 · 太虚阴极（2人）
-    "颜舜": "",
-    "乌耀俊": ""
+    "颜舜": "https://i.postimg.cc/pVKmhFvF/yan-shun.jpg",
+    "乌耀俊": "https://i.postimg.cc/QNcF9TDW/wu-yao-jun.jpg"
   }
 };
