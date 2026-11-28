@@ -75,7 +75,7 @@ window.XZ_IMAGES = {
     // 4. 修真界 · 东岱域（11人）
     "李顺章": "https://i.postimg.cc/zvW6B3rt/li-shun-zhang.jpg",
     "李尧": "https://i.postimg.cc/hvx6jhBC/li-yao.jpg",
-    "张禄": "https://i.postimg.cc/1Xt13yt9/zhang-lu.jpg",
+    "张禄": "https://i.postimg.cc/L5JmX1BS/zhang-lu.jpg",
     "陆奕雄": "https://i.postimg.cc/gJtB48zp/lu-yi-xiong.jpg",
     "余泉": "https://i.postimg.cc/mkDWgTDT/yu-quan.jpg",
     "卓晨蕊": "https://i.postimg.cc/yYWDBxdj/zhuo-chen-rui.jpg",
