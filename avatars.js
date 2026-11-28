@@ -82,7 +82,7 @@ window.XZ_IMAGES = {
     "陆绯": "https://i.postimg.cc/3WM2cL4C/lu-fei.jpg",
     "余子衿": "https://i.postimg.cc/Y2vVThGb/yu-zi-jin.jpg",
     "余子佩": "https://i.postimg.cc/w3KDGWyQ/yu-zi-pei.jpg",
-    "鱼青涟": "https://i.postimg.cc/9FsYHGJs/yu-qing-lian.jpg",
+    "鱼青涟": "https://i.postimg.cc/cCGbQcxv/yu-qing-lian.jpg",
     "罗夜玉": "https://i.postimg.cc/tC8NGh2f/luo-ye-yu.jpg",
 
     // 5. 修真界 · 南衡域（10人）
