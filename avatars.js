@@ -90,7 +90,7 @@ window.XZ_IMAGES = {
     "黎渊": "https://i.postimg.cc/XvbJ7y6g/li-yuan.jpg",
     "黎景": "https://i.postimg.cc/B6tGqqtJ/li-jing.jpg",
     "袁子鸿": "https://i.postimg.cc/vBDdQQDM/yuan-zi-hong.jpg",
-    "高弘光": "https://i.postimg.cc/rmW2dfGf/gao-hong-guang.jpg",
+    "高弘光": "https://i.postimg.cc/kGjgVD94/gao-hong-guang.jpg",
     "凌霜": "https://i.postimg.cc/d3hJM7BQ/ling-shuang.jpg",
     "风铃儿": "https://i.postimg.cc/5yXfcH3N/feng-ling-er.jpg",
     "龙骊珠": "https://i.postimg.cc/ry4894Dc/long-li-zhu.jpg",
