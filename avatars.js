@@ -79,9 +79,9 @@ window.XZ_IMAGES = {
     "陆奕雄": "https://i.postimg.cc/gJtB48zp/lu-yi-xiong.jpg",
     "余泉": "https://i.postimg.cc/mkDWgTDT/yu-quan.jpg",
     "卓晨蕊": "https://i.postimg.cc/yYWDBxdj/zhuo-chen-rui.jpg",
-    "陆绯": "https://i.postimg.cc/L6G3FzNw/lu-fei.jpg",
-    "余子衿": "https://i.postimg.cc/bvRy1frq/yu-zi-jin.jpg",
-    "余子佩": "https://i.postimg.cc/NfLKYFMx/yu-zi-pei.jpg",
+    "陆绯": "https://i.postimg.cc/3WM2cL4C/lu-fei.jpg",
+    "余子衿": "https://i.postimg.cc/Y2vVThGb/yu-zi-jin.jpg",
+    "余子佩": "https://i.postimg.cc/w3KDGWyQ/yu-zi-pei.jpg",
     "鱼青涟": "https://i.postimg.cc/9FsYHGJs/yu-qing-lian.jpg",
     "罗夜玉": "https://i.postimg.cc/tC8NGh2f/luo-ye-yu.jpg",
 
@@ -107,26 +107,26 @@ window.XZ_IMAGES = {
     "谢卓颜": "https://i.postimg.cc/qv1hdKcy/xie-zhuo-yan.jpg",
     "梁琉鸢": "https://i.postimg.cc/N0rgP2dQ/liang-liu-yuan.jpg",
     "薛嘉禾": "https://i.postimg.cc/MHjZSgYb/xue-jia-he.jpg",
-    "司红豆": "https://i.postimg.cc/SNFYKGzS/si-hong-dou.jpg",
+    "司红豆": "https://i.postimg.cc/YCMd2909/si-hong-dou.jpg",
 
     // 7. 修真界 · 北恒域（10人）
-    "何恶全": "https://i.postimg.cc/MHfgsQ0k/he-e-quan.jpg",
-    "金不凡": "https://i.postimg.cc/RhJ2PH7y/jin-bu-fan.jpg",
-    "巫偌": "https://i.postimg.cc/NF2ZNH6z/wu-ruo.jpg",
+    "何恶全": "https://i.postimg.cc/WpYWnj9V/he-e-quan.jpg",
+    "金不凡": "https://i.postimg.cc/nVSRkZdp/jin-bu-fan.jpg",
+    "巫偌": "https://i.postimg.cc/L6qyQ77s/wu-ruo.jpg",
     "张问": "https://i.postimg.cc/XqBt2CfR/zhang-wen.jpg",
-    "常辰": "https://i.postimg.cc/C5n9vqGW/chang-chen.jpg",
-    "蓝雅心": "https://i.postimg.cc/mk1KdHYS/lan-ya-xin.jpg",
-    "尹曼姝": "https://i.postimg.cc/pr530FfY/yin-man-shu.jpg",
-    "仇无恩": "https://i.postimg.cc/6q4FHvrf/chou-wu-en.jpg",
-    "何善瑶": "https://i.postimg.cc/fyS1H9c2/he-shan-yao.jpg",
-    "鱼画彤": "https://i.postimg.cc/8cfxy6RH/yu-hua-tong.jpg",
+    "常辰": "https://i.postimg.cc/BQ8h7yzy/chang-chen.jpg",
+    "蓝雅心": "https://i.postimg.cc/ZK9fsggt/lan-ya-xin.jpg",
+    "尹曼姝": "https://i.postimg.cc/NfyNCVVF/he-shan-yao.jpg",
+    "仇无恩": "https://i.postimg.cc/fT3HqFFD/chou-wu-en.jpg",
+    "何善瑶": "https://i.postimg.cc/NfyNCVVF/he-shan-yao.jpg",
+    "鱼画彤": "https://i.postimg.cc/L6qyQ7Ww/yu-hua-tong.jpg",
 
     // 8. 仙界 · 太清阳极（3人）
-    "帝玄": "https://i.postimg.cc/NGR4xDTp/di-xuan.jpg",
-    "楚望舒": "https://i.postimg.cc/kMWcys8T/chu-wang-shu.jpg",
-    "秦沧山": "https://i.postimg.cc/1RDHKB67/qin-cang-shan.jpg",
+    "帝玄": "https://i.postimg.cc/Zq627gWJ/di-xuan.jpg",
+    "楚望舒": "https://i.postimg.cc/bv1WCMZy/chu-wang-shu.jpg",
+    "秦沧山": "https://i.postimg.cc/g2C1Kd2J/qin-cang-shan.jpg",
     // 9. 仙界 · 太虚阴极（2人）
-    "颜舜": "https://i.postimg.cc/FF0ZxpcW/yan-shun.jpg",
-    "乌耀俊": "https://i.postimg.cc/wxDVk2JG/wu-yao-jun.jpg"
+    "颜舜": "https://i.postimg.cc/RZk2T9Zh/yan-shun.jpg",
+    "乌耀俊": "https://i.postimg.cc/SxBHGqxJ/wu-yao-jun.jpg"
   }
 };
