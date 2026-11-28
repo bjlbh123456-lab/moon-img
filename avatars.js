@@ -116,7 +116,7 @@ window.XZ_IMAGES = {
     "张问": "https://i.postimg.cc/tgkqvDv8/zhang-wen.jpg",
     "常辰": "https://i.postimg.cc/BQ8h7yzy/chang-chen.jpg",
     "蓝雅心": "https://i.postimg.cc/ZK9fsggt/lan-ya-xin.jpg",
-    "尹曼姝": "https://i.postimg.cc/NfyNCVVF/he-shan-yao.jpg",
+    "尹曼姝": "https://i.postimg.cc/QxB6YPPs/yin-man-shu.jpg",
     "仇无恩": "https://i.postimg.cc/fT3HqFFD/chou-wu-en.jpg",
     "何善瑶": "https://i.postimg.cc/NfyNCVVF/he-shan-yao.jpg",
     "鱼画彤": "https://i.postimg.cc/1tPfdfKH/yu-hua-tong.jpg",
