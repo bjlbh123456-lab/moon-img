@@ -44,7 +44,7 @@ window.XZ_IMAGES = {
 
     // 2. 凡俗界 · 凤洲（12人）
     "丘智辉": "https://i.postimg.cc/mrfyVh35/qiu-zhi-hui.jpg",
-    "楚万山": "https://i.postimg.cc/tJqbLhPM/chu-wan-shan.jpg",
+    "楚万山": "https://i.postimg.cc/x8k4HTbf/chu-wan-shan.jpg",
     "卢平平": "https://i.postimg.cc/pLnwc04W/lu-ping-ping.jpg",
     "杨彰": "https://i.postimg.cc/TYm8C7ZX/yang-zhang.jpg",
     "萧玥澄": "https://i.postimg.cc/vB8Kjpz7/xiao-yue-cheng.jpg",
@@ -82,7 +82,7 @@ window.XZ_IMAGES = {
     "陆绯": "https://i.postimg.cc/3WM2cL4C/lu-fei.jpg",
     "余子衿": "https://i.postimg.cc/Y2vVThGb/yu-zi-jin.jpg",
     "余子佩": "https://i.postimg.cc/w3KDGWyQ/yu-zi-pei.jpg",
-    "鱼青涟": "https://i.postimg.cc/SKs6vYTH/yu-qing-lian.jpg",
+    "鱼青涟": "https://i.postimg.cc/XqqF2rVF/yu-qing-lian.jpg",
     "罗夜玉": "https://i.postimg.cc/tC8NGh2f/luo-ye-yu.jpg",
 
     // 5. 修真界 · 南衡域（10人）
@@ -103,23 +103,23 @@ window.XZ_IMAGES = {
     "梁翎": "https://i.postimg.cc/zBM1tV5K/liang-ling.jpg",
     "司马锋": "https://i.postimg.cc/3NHtxTZM/si-ma-feng.jpg",
     "辛辩": "https://i.postimg.cc/gjPg2WHf/xin-bian.jpg",
-    "孔颐": "https://i.postimg.cc/KvcHYSSB/kong-yi.jpg",
+    "孔颐": "https://i.postimg.cc/0NrzRTgQ/kong-yi.jpg",
     "谢卓颜": "https://i.postimg.cc/qv1hdKcy/xie-zhuo-yan.jpg",
     "梁琉鸢": "https://i.postimg.cc/N0rgP2dQ/liang-liu-yuan.jpg",
-    "薛嘉禾": "https://i.postimg.cc/MHjZSgYb/xue-jia-he.jpg",
+    "薛嘉禾": "https://i.postimg.cc/KjhjT41f/xue-jia-he.jpg",
     "司红豆": "https://i.postimg.cc/YCMd2909/si-hong-dou.jpg",
 
     // 7. 修真界 · 北恒域（10人）
     "何恶全": "https://i.postimg.cc/WpYWnj9V/he-e-quan.jpg",
     "金不凡": "https://i.postimg.cc/nVSRkZdp/jin-bu-fan.jpg",
     "巫偌": "https://i.postimg.cc/L6qyQ77s/wu-ruo.jpg",
-    "张问": "https://i.postimg.cc/XqBt2CfR/zhang-wen.jpg",
+    "张问": "https://i.postimg.cc/tgkqvDv8/zhang-wen.jpg",
     "常辰": "https://i.postimg.cc/BQ8h7yzy/chang-chen.jpg",
     "蓝雅心": "https://i.postimg.cc/ZK9fsggt/lan-ya-xin.jpg",
     "尹曼姝": "https://i.postimg.cc/NfyNCVVF/he-shan-yao.jpg",
     "仇无恩": "https://i.postimg.cc/fT3HqFFD/chou-wu-en.jpg",
     "何善瑶": "https://i.postimg.cc/NfyNCVVF/he-shan-yao.jpg",
-    "鱼画彤": "https://i.postimg.cc/L6qyQ7Ww/yu-hua-tong.jpg",
+    "鱼画彤": "https://i.postimg.cc/1tPfdfKH/yu-hua-tong.jpg",
 
     // 8. 仙界 · 太清阳极（3人）
     "帝玄": "https://i.postimg.cc/Zq627gWJ/di-xuan.jpg",
